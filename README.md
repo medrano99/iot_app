@@ -40,7 +40,7 @@ Ejecutar el cliente una terminal nueva, por defecto el cliente tiene habilitado 
 
 ## Paso 4
 * Despues de ejecutar los pasos anteriores, el  sensor simulado esta enviando datos correctamnete.
-* Ingresar a la siguinete url en su navegador *localhost:8000/docs*
+* Ingresar a la siguinete url en su navegador **localhost:8000/docs**
 * Es la ruta de FastAPI para acceder a Swagger, en dicha ruta se encuentra el CRUD
 
 
